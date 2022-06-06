@@ -32,7 +32,7 @@
 
 
 ## Subway Data
-Estimated travel time and estimated transfer time data is available in *subway_data* folder. The data file format is csv.
+Estimated travel time and estimated transfer time data is available in *data* folder. The data file format is csv.
 - 1지선
 - 1호선
 - 2지선
