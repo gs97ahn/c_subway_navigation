@@ -1,7 +1,7 @@
 # Subway Navigation
 <div align="center"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></div>
 
-**Subway Navigation is written in C and finds optimal path for Korean subway navigation. It uses dijkstra algorithm to find the shortest and minimum transfer path**
+**Subway Navigation finds optimal path for Korean subway navigation. It uses dijkstra algorithm to find the shortest or minimum transfer path**
 
 
 ## How it Works
